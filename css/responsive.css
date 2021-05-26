@@ -52,6 +52,9 @@
         flex: 0 0 100%;
         max-width: 100%;
     }
+    .aside .nav-toggler {
+        left: 15px;
+    }
     
 }
 
